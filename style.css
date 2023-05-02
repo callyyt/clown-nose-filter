@@ -25,4 +25,9 @@ canvas
     90% {box-shadow: 1px 1px 38px rgb(255, 120, 143);}
 }
 
-
+body
+{
+    background: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
